@@ -1,2 +1,1 @@
-# delete
-delete this after usage
+This is the repo thatgives us all the git commands.
